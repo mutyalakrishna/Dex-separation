@@ -1,0 +1,12 @@
+export const APPROVE = "Approve"
+export const HOLD = "Hold"
+export const DEDUCTION = "Deduction(Optional)"
+export const ADD_ATTACHMENT = "Add Attachment"
+export const REMARKS = "Remarks"
+export const SEPARATION_INFO = "Text for file size and file type"
+export const BACK = "Back"
+export const SUBMIT = "Submit"
+export const CONFIRMATION_TITLE = "Are you sure you want to submit?"
+export const CONFIRMATION_SUBTITLE = "Clearance and deduction details once submitted as “Approve” cannot be undone"
+export const CANCEL = "Cancel"
+
